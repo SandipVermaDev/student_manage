@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597002820147",
+    "project_id": "kudosware-e898c",
+    "storage_bucket": "kudosware-e898c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597002820147:android:cca61908ac9c09fedd6146",
+        "android_client_info": {
+          "package_name": "com.example.student_manage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwJLJAC1U6pR8hHzwwNlvC_ZnxhgtRFo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
